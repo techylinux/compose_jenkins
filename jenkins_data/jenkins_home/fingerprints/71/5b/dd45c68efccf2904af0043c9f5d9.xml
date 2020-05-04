@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-05-03 17:09:27.895 UTC</timestamp>
+  <md5sum>715bdd45c68efccf2904af0043c9f5d9</md5sum>
+  <fileName>Credential id=SECRETKEY name=SECRETKEY</fileName>
+  <usages>
+    <entry>
+      <string>backup to AWS</string>
+      <ranges>1-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,9 @@
+Started by user [8mha:////4DSYKjJzdZIDpt25AGxNamV84fDB+ei5wrKA5pEdf2/RAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZe/dLi1CL9rNS87My8YgCX3jr2wgAAAA==[0msumit kumar
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-second-job
+[my-second-job] $ /bin/sh -xe /tmp/jenkins4149254224946107110.sh
++ NAME=sumi
++ LNAME=kumar
++ /tmp/script.sh sumi kumar
+hello sumi kumar
+Finished: SUCCESS

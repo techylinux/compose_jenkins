@@ -1,0 +1,21 @@
+Started by user [8mha:////4DSYKjJzdZIDpt25AGxNamV84fDB+ei5wrKA5pEdf2/RAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZe/dLi1CL9rNS87My8YgCX3jr2wgAAAA==[0msumit kumar
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/backup to AWS
+[SSH] script:
+MYSQL_DBN="test2"
+AWS_BUCKET="mysql-bucket-02"
+MYSQL_HOST="db_host"
+MYSQL_PASS=**********
+AWS_SECRET=**********
+
+/tmp/script.sh  $MYSQL_HOST $MYSQL_PASS $MYSQL_DBN $AWS_SECRET $AWS_BUCKET
+
+[SSH] executing...
+usage  mysqldump -u root -h <> -p <> <dbname> <secretkey> <bucketname>
+uploading the backup to s3
+Completed 1.2 KiB/1.2 KiB (1002 Bytes/s) with 1 file(s) remainingupload: ../../tmp/db-2020-05-04-09:09:09.sql to s3://mysql-bucket-02/db-2020-05-04-09:09:09.sql
+
+[SSH] completed
+[SSH] exit-status: 0
+
+Finished: SUCCESS

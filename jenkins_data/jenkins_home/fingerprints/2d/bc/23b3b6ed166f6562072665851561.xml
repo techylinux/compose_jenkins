@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-05-03 17:09:27.885 UTC</timestamp>
+  <md5sum>2dbc23b3b6ed166f6562072665851561</md5sum>
+  <fileName>Credential id=PASS name=PASS</fileName>
+  <usages>
+    <entry>
+      <string>backup to AWS</string>
+      <ranges>1-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

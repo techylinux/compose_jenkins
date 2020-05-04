@@ -1,0 +1,8 @@
+Started by user [8mha:////4DSYKjJzdZIDpt25AGxNamV84fDB+ei5wrKA5pEdf2/RAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZe/dLi1CL9rNS87My8YgCX3jr2wgAAAA==[0msumit kumar
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins2243481731319792765.sh
++ NAME=sumit
++ date
++ echo Hellow sumit.The current date and time is Sat May  2 09:49:02 UTC 2020
+Finished: SUCCESS
